@@ -13,9 +13,9 @@
 
 ## 🔧 Features Checklist
 
-- [] Project setup with React + Vite
-- [] Tailwind CSS v4 configured
-- [] Desi UI components integrated
+- [ok] Project setup with React + Vite
+- [ok] Tailwind CSS v4 configured
+- [ok] Desi UI components integrated
 - [] LocalStorage used for storing cart/user data
 - [] Firebase Authentication implemented
 - [] Cart add/remove functionality
