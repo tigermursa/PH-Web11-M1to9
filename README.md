@@ -13,11 +13,11 @@
 
 ## 🔧 Features Checklist
 
-- [x] Project setup with React + Vite
-- [x] Tailwind CSS v4 configured
-- [x] Desi UI components integrated
-- [x] LocalStorage used for storing cart/user data
-- [x] Firebase Authentication implemented
-- [x] Cart add/remove functionality
-- [x] Context API for managing global states
-- [x] Private routes for protected pages
+- [] Project setup with React + Vite
+- [] Tailwind CSS v4 configured
+- [] Desi UI components integrated
+- [] LocalStorage used for storing cart/user data
+- [] Firebase Authentication implemented
+- [] Cart add/remove functionality
+- [] Context API for managing global states
+- [] Private routes for protected pages
