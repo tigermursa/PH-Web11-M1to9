@@ -1,6 +1,5 @@
 import { use, useState } from "react";
 import ProductCard from "./ProductCard";
-
 const dataPromise = fetch("/public/bd_products.json").then((res) => res.json());
 
 const ProductShow = () => {
