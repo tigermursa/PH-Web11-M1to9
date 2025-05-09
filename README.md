@@ -18,6 +18,7 @@
 - [ok] Desi UI components integrated
 - [] LocalStorage used for storing cart/user data
 - [] Firebase Authentication implemented
+- [] React Router
 - [] Cart add/remove functionality
 - [] Context API for managing global states
 - [] Private routes for protected pages
