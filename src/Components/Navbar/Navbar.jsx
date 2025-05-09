@@ -1,11 +1,21 @@
 import React from "react";
+import { NavLink } from "react-router";
 
 const Navbar = () => {
   return (
     <div>
-      <div className="navbar bg-base-100 shadow-sm">
-        <div className="flex-1">
-          <a className="btn btn-ghost text-xl">daisyUI</a>
+      <div className="navbar bg-base-100 shadow-sm flex justify-between">
+        <div className="">
+          <a className="btn btn-ghost text-xl">PH Fashion</a>
+        </div>
+        <div className="">
+          <ul className="flex gap-4">
+            <NavLink>Home</NavLink>
+            <NavLink>T-shirt</NavLink>
+            <NavLink>Pants</NavLink>
+            <NavLink>About us</NavLink>
+            <NavLink>Contact</NavLink>
+          </ul>
         </div>
         <div className="flex-none">
           <div className="dropdown dropdown-end">
