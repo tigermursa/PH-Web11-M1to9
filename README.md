@@ -21,3 +21,6 @@
 - [] Cart add/remove functionality
 - [] Context API for managing global states
 - [] Private routes for protected pages
+- [] Dynamic title
+- [] Loader
+- [] Animation
